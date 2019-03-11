@@ -41,8 +41,8 @@ Note -- The Data Story was summarized in the file:  Project_1_Data_Story_v2.ipyn
 
 ===CODE===
 
-The following Jupyter Notebooks contain the analysis code that was used for this project:
 
+The following Jupyter Notebooks contain the analysis code that was used for this project:
 
 Project_1_Data_Wrangling_v1.ipynb
 This file contains the code that was used for data wrangling.
