@@ -25,10 +25,10 @@ Capstone Project 1 Proposal.pdf
 This file contains the proposal for the project.
 
 Capstone Project 1 Data Wrangling Summary.pdf
-This file contains a summary the data wrangling methods that were performed for this project.
+This file contains a summary of the data wrangling methods that were performed for this project.
 
 Capstone Project 1 EDA Summary.pdf
-This file contains a summary the exploratory data analysis (EDA) that was performed for this project.
+This file contains a summary of the exploratory data analysis (EDA) that was performed for this project.
 
 Capstone Project 1 Milestone Report.pdf
 This file contains a progress report from an intermediate stage of the project.
