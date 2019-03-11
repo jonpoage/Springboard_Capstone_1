@@ -33,7 +33,6 @@ This file contains a summary of the exploratory data analysis (EDA) that was per
 Capstone Project 1 Milestone Report.pdf
 This file contains a progress report from an intermediate stage of the project.
 
-
 Capstone Project 1 In-Depth Analysis Summary.pdf
 This file contains a summary of the more advanced, in-depth analysis that was performed for this project.
 
