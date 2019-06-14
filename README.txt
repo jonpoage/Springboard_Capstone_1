@@ -1,5 +1,8 @@
-This repository contains the files listed below.
+This repository contains my first Springboard capstone project.
 
+Title: Analysis of Departure Delays in the U.S.
+
+The repository contains the files listed below.
 
 ===PRESENTATION===
 
